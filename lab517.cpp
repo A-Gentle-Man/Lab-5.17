@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char **argv) {
 
-   const int DEFAULT_NUMBER_OF_ROUNDS = 2;
+   const int DEFAULT_NUMBER_OF_ROUNDS = 15;
    int       numRounds = DEFAULT_NUMBER_OF_ROUNDS;
 
    // if a command line argument is given, use that string to init the
